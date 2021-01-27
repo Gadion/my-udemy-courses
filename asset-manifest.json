@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.26dcebe1.chunk.css",
-    "main.js": "./static/js/main.f07f4e66.chunk.js",
-    "main.js.map": "./static/js/main.f07f4e66.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.04f085b0.js",
-    "runtime-main.js.map": "./static/js/runtime-main.04f085b0.js.map",
-    "static/js/2.efa2d356.chunk.js": "./static/js/2.efa2d356.chunk.js",
-    "static/js/2.efa2d356.chunk.js.map": "./static/js/2.efa2d356.chunk.js.map",
-    "static/js/3.39c10e52.chunk.js": "./static/js/3.39c10e52.chunk.js",
-    "static/js/3.39c10e52.chunk.js.map": "./static/js/3.39c10e52.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.26dcebe1.chunk.css.map": "./static/css/main.26dcebe1.chunk.css.map",
-    "static/js/2.efa2d356.chunk.js.LICENSE.txt": "./static/js/2.efa2d356.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+    "main.css": "/my-udemy-courses/static/css/main.26dcebe1.chunk.css",
+    "main.js": "/my-udemy-courses/static/js/main.f07f4e66.chunk.js",
+    "main.js.map": "/my-udemy-courses/static/js/main.f07f4e66.chunk.js.map",
+    "runtime-main.js": "/my-udemy-courses/static/js/runtime-main.fe77820a.js",
+    "runtime-main.js.map": "/my-udemy-courses/static/js/runtime-main.fe77820a.js.map",
+    "static/js/2.efa2d356.chunk.js": "/my-udemy-courses/static/js/2.efa2d356.chunk.js",
+    "static/js/2.efa2d356.chunk.js.map": "/my-udemy-courses/static/js/2.efa2d356.chunk.js.map",
+    "static/js/3.39c10e52.chunk.js": "/my-udemy-courses/static/js/3.39c10e52.chunk.js",
+    "static/js/3.39c10e52.chunk.js.map": "/my-udemy-courses/static/js/3.39c10e52.chunk.js.map",
+    "index.html": "/my-udemy-courses/index.html",
+    "static/css/main.26dcebe1.chunk.css.map": "/my-udemy-courses/static/css/main.26dcebe1.chunk.css.map",
+    "static/js/2.efa2d356.chunk.js.LICENSE.txt": "/my-udemy-courses/static/js/2.efa2d356.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-udemy-courses/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.04f085b0.js",
+    "static/js/runtime-main.fe77820a.js",
     "static/js/2.efa2d356.chunk.js",
     "static/css/main.26dcebe1.chunk.css",
     "static/js/main.f07f4e66.chunk.js"
